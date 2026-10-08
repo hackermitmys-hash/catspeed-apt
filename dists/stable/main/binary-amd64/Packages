@@ -1,14 +1,14 @@
 Package: catspeed
-Version: 1.0.0-1
+Version: 1.1.0-1
 Architecture: amd64
 Maintainer: catspeed
-Installed-Size: 868
+Installed-Size: 872
 Depends: libc6 (>= 2.34)
-Filename: pool/main/c/catspeed/catspeed_1.0.0-1_amd64.deb
-Size: 746676
-MD5sum: 50c164e9d8a09a1b67a0999c5bf3e3aa
-SHA1: 08168be77303e518db8a0a4aace5ad63b8289bf9
-SHA256: 5c1a25685954aa94ccf08a8ddc4e74a3b25356af460ef4d96855dbad503eaabe
+Filename: pool/main/c/catspeed/catspeed_1.1.0-1_amd64.deb
+Size: 747938
+MD5sum: aa5d52d8deed1248cf4568c7bbcb8da2
+SHA1: b2ece47317140f56230b0e802fdce178ca3c53e5
+SHA256: 2fd4da1a0ddce30cc3e27912c506f5e492a0ea2d524358ee1e52cffbe61a46b2
 Section: education
 Priority: optional
 Description: College laboratory program CLI

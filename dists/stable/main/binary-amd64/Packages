@@ -1,0 +1,17 @@
+Package: catspeed
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: catspeed
+Installed-Size: 868
+Depends: libc6 (>= 2.34)
+Filename: pool/main/c/catspeed/catspeed_1.0.0-1_amd64.deb
+Size: 746676
+MD5sum: 50c164e9d8a09a1b67a0999c5bf3e3aa
+SHA1: 08168be77303e518db8a0a4aace5ad63b8289bf9
+SHA256: 5c1a25685954aa94ccf08a8ddc4e74a3b25356af460ef4d96855dbad503eaabe
+Section: education
+Priority: optional
+Description: College laboratory program CLI
+ Catspeed is a command-line application for browsing and viewing
+ college laboratory programs.
+

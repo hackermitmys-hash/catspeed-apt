@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 08 Oct 2026 11:22:38 +0000
+Label: Catspeed
+Origin: Catspeed
+Suite: stable
+MD5Sum:
+ 33f3ea14238f1204660708dbbfd1e047              140 Release
+ f2c47a4ef48957184c08ef5478fe8e81              531 main/binary-amd64/Packages
+ ed2bd653ebf5dcde04970cd7777948da              386 main/binary-amd64/Packages.gz
+SHA1:
+ 549355711f3df00abe7644d39aa48d249e089383              140 Release
+ ad20a1dbd38484d1c108c00ecb7aa7d093573f63              531 main/binary-amd64/Packages
+ 6b5bbcf04f1098e42846169b3ac4944968b7c710              386 main/binary-amd64/Packages.gz
+SHA256:
+ 862b0e10c3c2c4a51aeb66f81bb38da655aa1d4ed2c47d5c7c94cf0426733eeb              140 Release
+ 6a67f578a84c14b4d984a05248c190740fd4bd4c9c6bfb617037a44dc3cc3d7c              531 main/binary-amd64/Packages
+ 0984d809a6d3b8ebdaf82d788f71ddde911e0a2138d52ce3a373ca9d0d746a70              386 main/binary-amd64/Packages.gz
+SHA512:
+ 5b4e23c611861b9944e5fd57a12dbaa8229868e6561604957b4603918b2b6bed905a7af29ed69a7ff2ca0bd8a272b80b89c20cd9aaaf578a70a684e59105fc69              140 Release
+ b4ead00dfd95e2b55386bad54467422cdd6400052ab75a592e45abfb5a94259bfeb57f6761f5365f032a2ba0286336b860ca7cd5f8d74c8f8667e49dc7a6ff9e              531 main/binary-amd64/Packages
+ c82ed20d394b830764c2056944a787a777a940650cd7ad4c272b2bf6888a580b01bfb88275e63b6db3df040e759f5669a1d57b3ea1feffa9107e09c96d895944              386 main/binary-amd64/Packages.gz
